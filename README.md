@@ -9,4 +9,5 @@ Our team consisted of:
 * Matthew Seary BSc
 * Brian von Konsky PhD(Curtin) FACS CP
 
+Judges are asked to read the short business case in docs/updated business case.docx
 This work requries Jupyter notebooks. We recommend the Anaconda build with the Bokeh library for the map visualisation.
